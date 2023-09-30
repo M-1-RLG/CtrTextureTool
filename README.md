@@ -1,4 +1,4 @@
-# Ctr 3DS Texture (de/en)coder.
+# (Ctr)3DS Texture Tool
 
 ## Supported formats
 ```
